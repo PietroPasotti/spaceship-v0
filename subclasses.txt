@@ -1,0 +1,7 @@
+fighter        	10         	8 		    8
+destroyer      	5          	15  		14
+cruiser			7			20			20
+mothership		5			30			30
+swarmer			12			3			3
+bomber			8			13			10
+flagship		10			50			50

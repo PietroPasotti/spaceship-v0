@@ -1,0 +1,10 @@
+#_buildingName		hull		(_attack,_range)	_shield			(_cost,maxno)		_special_attrs
+#
+base				100			(100,10)			10				(0,1)				H,spawn1,regen,energy2
+generator			60			None				8				(5,5)				G,energy5
+small_shipyard		100			None				5				(10,6)				s,spawn2
+medium_shipyard		150			(50,5)				9				(20,4)				S,spawn3			
+big_shipyard		200			(100,10)			15				(30,2)				Z,spawn4,missiles,EMP_bomb
+#
+battery				50			(50,20)				4				(15,4)				B,missiles
+research_lab		70			None				5				(20,1)				L,unknown

@@ -1,0 +1,5 @@
+in_a_nebula			-0.2
+captain				0.3
+rookie				-0.2
+commander			0.4
+hero				0.5

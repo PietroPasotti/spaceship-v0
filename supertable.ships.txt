@@ -1,0 +1,9 @@
+#class	    	speed      	attack     	defence  	shields?    	range	  	warp?       special_attrs
+fighter 		10			8			8			False			0			False		f
+destroyer      	5          	15  		14			False			1			False		d
+cruiser			7			20			20			True			2			False		c,EMP_bomb
+mothership		5			30			30			True			5			True		M,bombs,hive,missiles,giga_laser,self_destruct,terraformation
+swarmer			12			3			3			False			0			False		s,swarm
+bomber			8			13			10			False			2			False		b,bombs,missiles
+flagship		10			50			50			True			7			True		F,hive,EMP_bomb
+Fleet			None		5000		None		None			None		None		None

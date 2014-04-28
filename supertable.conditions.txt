@@ -1,0 +1,18 @@
+#CONDITION			attack_modifier+(?)	base_atk_multiplier	  	visible?	Attackable?  	CanMove?+speed 
+destroyed  			None				False					None		False			False						
+severely_damaged	None				0						None		None			0.5							
+disabled			None				0						None		None			False				
+seriously_damaged	None				0.3						None		None			0.2
+damaged				None				0.5						None		None			0.6						
+lightly_damaged		None				0.7						None		None			1							
+intact				None				1						None		None			1							
+#bonus properties that not all ships must have
+in_a_nebula			-0.2				None					False		False			0.5	
+captain				0.3					None					None		None			None	
+rookie				-0.2				None					None		None			None	
+commander			0.4					None					None		None			None	
+hero				0.5					None					None		None			None	
+#bonus possessions
+invisibility_cloak	0.3					None					False		False			None
+very_well_hidden	0.1					None					False		False			None	
+disoriented			-0.2				None					None		None			False

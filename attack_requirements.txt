@@ -1,0 +1,4 @@
+dead    			True  			False
+destroyed 			False 			False
+dishoriented		True 			True
+very_well_hidden	False 			True

@@ -1,0 +1,6 @@
+destroyed  			0
+severely_damaged	0
+disabled			0
+damaged				0.5
+quite_alive			0.8
+alive				1
